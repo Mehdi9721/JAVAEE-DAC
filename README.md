@@ -43,4 +43,6 @@ definition for xml annotation
 
 
 
-## Spring STS
+# Spring STS
+STS-4 --> MAVEN project in Spring starter --> add tools of web and java ee from eclips marketplace in sts else jsp will not created --> add tomcat jasper in dependency for jsp to servlet <br> 
+
