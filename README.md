@@ -40,7 +40,7 @@ definition for xml annotation
     http://www.springframework.org/schema/tool/spring-tool.xsd">
         <context:component-scan base-package="l"></context:component-scan>
         </beans>
-```````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+
 
 
 ## Spring STS
