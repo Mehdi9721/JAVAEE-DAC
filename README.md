@@ -45,4 +45,8 @@ definition for xml annotation
 
 # Spring STS
 STS-4 --> MAVEN project in Spring starter --> add tools of web and java ee from eclips marketplace in sts else jsp will not created --> add tomcat jasper in dependency for jsp to servlet <br> 
+### @SpringBootApplication
+this annoted class is a main (Dispatcher servlet)<br>
+IT will look for Controller where we marked Controller to a class <br>
+and @RequestMapping("/") will map the required method and returns the view.jsp file <br>
 
