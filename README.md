@@ -51,7 +51,7 @@ IT will look for Controller where we marked Controller to a class <br>
 and @RequestMapping("/") will map the required method and returns the view.jsp file <br>
 
 # JPA
-set properties dialect <br>
+### set properties dialect <br>
 spring.datasource.url=jdbc:mysql://localhost:3306/testhibernate <br>
 spring.datasource.username=root <br>
 spring.datasource.password=8052608851 <br>
