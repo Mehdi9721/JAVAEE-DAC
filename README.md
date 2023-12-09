@@ -50,6 +50,9 @@ this annoted class is a main (Dispatcher servlet)<br>
 IT will look for Controller where we marked Controller to a class <br>
 and @RequestMapping("/") will map the required method and returns the view.jsp file <br>
 
+## to add jpa file it should be added in
+src-main-webapp-a.jsp <br>
+#### we can also give direction to view resolver for locating jsp file in Properties
 # JPA
 
 ### set properties dialect <br>
