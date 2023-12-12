@@ -127,4 +127,8 @@ spring.jpa.hibernate.ddl-auto=update <br>
 </project>
 }
 
+# REST API
+
+Add anotation as @ResponseBody which will let view know that ,Now he will convert response to json <br> 
+use Optional<Data> (for handling null also) <br>
 
